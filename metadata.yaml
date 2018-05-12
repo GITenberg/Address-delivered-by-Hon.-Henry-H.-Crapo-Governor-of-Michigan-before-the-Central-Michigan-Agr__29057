@@ -1,0 +1,29 @@
+_repo: Address-delivered-by-Hon.-Henry-H.-Crapo-Governor-of-Michigan-before-the-Central-Michigan-Agr__29057
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crapo, Henry Howland
+    birthdate: 1804
+    deathdate: 1869
+    gutenberg_agent_id: '33665'
+    url: http://www.gutenberg.org/2009/agents/33665
+    wikipedia: http://en.wikipedia.org/wiki/Henry_H._Crapo
+description: ''
+gutenberg_issued: '2009-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29057'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Agriculture -- Michigan'
+- !lcc 'S'
+title: Address delivered by Hon. Henry H. Crapo, Governor of Michigan, before the
+  Central Michigan Agricultural Society, at their Sheep-shearing Exhibition held at
+  the Agricultural College Farm, on Thursday, May 24th, 1866
+url: http://www.gutenberg.org/ebooks/29057
